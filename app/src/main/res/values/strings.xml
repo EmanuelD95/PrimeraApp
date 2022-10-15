@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="titulo">Formulario de Registro</string>
+    <string name="hint_nombres">Ingrese sus nombres</string>
+    <string name="main_ayuda_edad">Ingrese su edad</string>
+    <string name="main_masculino">masculino</string>
+    <string name="main_femenino">femenino</string>
+    <string name="main_terminos">Aceptar Terminos</string>
+    <string name="main_enviar">Enviar</string>
+
+</resources>
